@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\stand\\scoop\\apps\\anaconda3\\current\\envs\\sfds\\python.exe",
+    "python.formatting.autopep8Path": "C:\\Users\\stand\\scoop\\apps\\anaconda3\\current\\envs\\sfds\\Scripts\\autopep8.exe",
+    "python.linting.flake8Path": "C:\\Users\\stand\\scoop\\apps\\anaconda3\\current\\envs\\sfds\\Scripts\\flake8.exe",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
